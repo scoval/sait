@@ -42,7 +42,6 @@ mypy==1.9.0
 mypy-extensions==1.0.0
 packaging==24.0
 # Editable Git install with no remote (parser-demo==0.1.0)
--e c:\users\acer\desktop\обучение\python\31.03.2024\parser 20.04.2024\parser-demo
 pefile==2023.2.7
 pexpect==4.9.0
 pip-tools==7.4.1
